@@ -10,7 +10,7 @@
 
 ## 📝 Descripción
 
-Este repositorio contiene una **galería interactiva de proyectos** desarrollados y explicados por [DevBy_Lualmara](https://www.youtube.com/@DevByLualmara).
+Este repositorio contiene una **galería interactiva de proyectos**
 
 Cada tarjeta representa un mini proyecto creativo hecho con **HTML, CSS y JavaScript**. Al hacer clic en uno de ellos, serás dirigido a una carpeta con su código fuente completo y una demo funcional del mismo.
 
@@ -35,11 +35,4 @@ DevBy_Lualmara/
 │   └── (otros proyectos futuros)
 └── index.html (Tablero principal)
 ```
-
-## ¡Dame tu Apoyo!
-
-Si te ha gustado este proyecto, no dudes en darme una ⭐ en el repositorio. ¡Eso me motiva a seguir creando contenido y mejorando mis proyectos!
-
-¡Gracias por tu apoyo! 😊
-
 ---
